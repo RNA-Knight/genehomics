@@ -1,1 +1,4 @@
 Something else
+OK this is going to be much easier now that we did git init steps
+
+
